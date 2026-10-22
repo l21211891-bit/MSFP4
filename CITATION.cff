@@ -1,0 +1,26 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Práctica 5.4 : Modelado y control del sistema
+  cardiovascular mediante el modelo Windkessel
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Africa Montserrat
+    family-names: Rodriguez Garcia
+    email: l21211891@tectijuana.edu.mx
+    affiliation: TecNM/ITT
+repository-code: 'https://github.com/l21211891-bit/MSFP4'
+keywords:
+  - Sistema cardiovascular
+  - Modelo Windkessel
+  - Circuito RLC
+  - Controlador PID
+  - Función de transferencia
+  - MATLAB
+license: BSD-2-Clause
+date-released: '2026-10-21'
