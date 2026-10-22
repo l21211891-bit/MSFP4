@@ -44,7 +44,7 @@ Durante la práctica se analizan los estados normotenso, hipotenso e hipertenso,
 ## Palabras clave: 
 Sistema cardiovascular; Modelo Windkessel; Circuito RLC; Controlador PID; Función de transferencia; MATLAB; Simulink; Python.
 
-Lista de archivos incluidos en el repositorio
+## Lista de archivos incluidos en el repositorio
 
 Cuaderno computacional de MATLAB [.mlx].
 
